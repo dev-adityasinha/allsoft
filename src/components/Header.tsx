@@ -202,10 +202,8 @@ const closeSequence = () => {
                     Our Products
                   </p>
                   <ul className="space-y-4 text-lg">
-                    <li className="hover:text-[#a3ff47] cursor-pointer">The Vault</li>
                     <li className="hover:text-[#a3ff47] cursor-pointer flex items-center gap-2">
                       Page Transition Course{" "}
-                      <span className="text-xs bg-white/10 px-2 py-1 rounded-full">NEW</span>
                     </li>
                     <li className="hover:text-[#a3ff47] cursor-pointer">Icon Library</li>
                     <li className="hover:text-[#a3ff47] cursor-pointer">Community</li>
@@ -217,11 +215,11 @@ const closeSequence = () => {
                     Explore
                   </p>
                   <ul className="space-y-4 text-lg">
-                    <li className="hover:text-[#a3ff47] cursor-pointer">Showcase</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">Contact Us</li>
                     <li className="hover:text-[#a3ff47] cursor-pointer">
-                      Collection <span className="text-white/40 text-sm">158</span>
+                      Collection <span className="text-white/40 text-sm">About Us</span>
                     </li>
-                    <li className="hover:text-[#a3ff47] cursor-pointer">Pricing</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">Services</li>
                   </ul>
                 </div>
 
