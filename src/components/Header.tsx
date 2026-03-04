@@ -203,10 +203,11 @@ const closeSequence = () => {
                   </p>
                   <ul className="space-y-4 text-lg">
                     <li className="hover:text-[#a3ff47] cursor-pointer flex items-center gap-2">
-                      Page Transition Course{" "}
+                     CG Covid-19 e-Pass Application
                     </li>
-                    <li className="hover:text-[#a3ff47] cursor-pointer">Icon Library</li>
-                    <li className="hover:text-[#a3ff47] cursor-pointer">Community</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">CG Home Isolation</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">TallySync</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">allsoft Books - Cloud Based ERP</li>
                   </ul>
                 </div>
 
