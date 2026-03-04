@@ -217,7 +217,7 @@ const closeSequence = () => {
                   <ul className="space-y-4 text-lg">
                     <li className="hover:text-[#a3ff47] cursor-pointer">Contact Us</li>
                     <li className="hover:text-[#a3ff47] cursor-pointer">
-                      Collection <span className="text-white/40 text-sm">About Us</span>
+                      About Us 
                     </li>
                     <li className="hover:text-[#a3ff47] cursor-pointer">Services</li>
                   </ul>
@@ -225,13 +225,8 @@ const closeSequence = () => {
 
                 <div className="rounded-2xl bg-white/5 border border-white/10 p-6 flex items-center justify-center">
                   <div className="text-center">
-                    <p className="text-white/60 text-xs uppercase tracking-widest mb-3">
-                      Featured
-                    </p>
                     <h3 className="text-3xl leading-tight">
-                      Page Transition
-                      <br />
-                      Course
+                     allsoft.
                     </h3>
                     <button className="mt-6 px-5 py-3 rounded-xl bg-white text-[#141414] font-medium hover:opacity-90">
                       More info
