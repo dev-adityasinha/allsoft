@@ -221,6 +221,8 @@ const closeSequence = () => {
                       About Us 
                     </li>
                     <li className="hover:text-[#a3ff47] cursor-pointer">Services</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">Careers</li>
+                    <li className="hover:text-[#a3ff47] cursor-pointer">Clients</li>
                   </ul>
                 </div>
 
